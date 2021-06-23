@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning deutsch C1 
 - 💞️ I’m looking to collaborate on environmental topics
 - 📫 How to reach me brunacorty@gmail.com
--  **Leonardo da Vinci** said
+- 📒 **Leonardo da Vinci** said
 > Learning is the only thing the mind never exhausts, never fears and never regrets
 <!---
 BrunaCorty/BrunaCorty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
