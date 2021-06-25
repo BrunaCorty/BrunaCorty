@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrunaCorty
 - 👀 I’m interested in Github, classical music and architecture
-- 🌱 I’m currently learning deutsch C1 
+- 🌱 I’m currently learning deutsch C1, Github and Java
 - 💞️ I’m looking to collaborate on environmental topics
 - 📫 How to reach me brunacorty@gmail.com
 - 📒 **Leonardo da Vinci** said
