@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrunaCorty
 - 👀 I’m interested in classical music and architecture
-- 🌱 I’m currently learning deutsch C1, Git and Java
-- 💞️ I’m looking to collaborate on environmental topics
+- 🌱 I’m currently learning Java, Angular, Spring Boot and Deutsch Intermediate/C1
+- 💞️ I’m looking to collaborate on the Software Studies
 - 📫 How to reach me brunacorty@gmail.com
 - 📒 **Leonardo da Vinci** said
 > Learning is the only thing the mind never exhausts, never fears and never regrets
