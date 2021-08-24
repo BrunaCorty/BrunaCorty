@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrunaCorty
-- 👀 I’m interested in classical music and architecture
+- 👀 I’m a brazilian Architect and Urban Designer interested in classical music and architecture
 - 🌱 I’m currently learning Java, Angular, Spring Boot and Deutsch Intermediate/C1
 - 💞️ I’m looking to collaborate on the Software Studies
 - 📫 How to reach me brunacorty@gmail.com
